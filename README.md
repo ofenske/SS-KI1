@@ -8,4 +8,4 @@ For the first variant there are the following requirements:
 1. Python and the required packages installed
 2. Jyupter notebook/lab installed
 
-Additionally you can execute the whole repository via Binder: 
+Additionally you can execute the whole repository via Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/turing-tester95/SS2022-KI1/HEAD)
