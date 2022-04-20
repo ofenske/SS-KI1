@@ -10,4 +10,4 @@ For the first variant there are the following requirements:
 
 We would recommend to install all of the above mentioned software via Anaconda (https://www.anaconda.com/). 
 
-Additionally you can execute the whole repository via Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/turing-tester95/SS2022-KI1/HEAD)
+Additionally you can execute the whole repository via Binder (without installing anything): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/turing-tester95/SS2022-KI1/HEAD)
