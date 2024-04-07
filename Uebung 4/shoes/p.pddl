@@ -1,6 +1,0 @@
-(define (problem shoes)
-  (:domain shoes)
-  (:objects left right - foot)
-  (:init todo) 
-  (:goal todo)
-)
