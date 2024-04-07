@@ -1,4 +1,4 @@
-# SS2023-KI1
+# SS-KI1
 This is the repository for the exercise lecture of the module "Smart Computing"/"Grundlagen der Künstlichen Intelligenz" at the University of Rostock. 
 There are two ways to execute the material:
 1. Download and execute everything locally on your own laptop.
